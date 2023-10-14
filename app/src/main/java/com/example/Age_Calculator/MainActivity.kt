@@ -1,10 +1,10 @@
-package com.example.dobcalc
+package com.example.Age_Calculator
 
 import android.app.DatePickerDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.example.dobcalc.databinding.ActivityMainBinding
+import com.example.Age_Calculator.databinding.ActivityMainBinding
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale

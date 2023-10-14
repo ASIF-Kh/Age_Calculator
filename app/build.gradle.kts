@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dobcalc"
+    namespace = "com.example.Age_Calculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.dobcalc"
+        applicationId = "com.example.Age_Calculator"
         minSdk = 29
         //noinspection EditedTargetSdkVersion
         targetSdk = 34
